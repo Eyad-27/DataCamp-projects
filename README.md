@@ -11,6 +11,16 @@ Below are the projects I’ve completed so far (most recent at the top, links in
 
 ---
 
+## 🚨 [Analyzing Crime in Los Angeles](https://github.com/Eyad-27/analyzing-crime-in-los-angeles)
+
+Explore crime patterns in Los Angeles using historical crime data to identify peak crime hours, high-risk areas at night, and crime frequencies by victim age groups.  
+This project focuses on filtering, grouping, and aggregating data to extract actionable insights for public safety.
+
+- **Key Deliverables:** Extracted peak crime hours and night crime locations using **pandas** DataFrames; binned victim ages to count crimes per age group; applied filtering and aggregation for actionable insights.  
+- **Skills Used:** Python (pandas, matplotlib), data wrangling, grouping & aggregation, Boolean filtering, data visualization.  
+
+---
+
 ## 🏆 [Visualizing the History of Nobel Prize Winners](https://github.com/Eyad-27/visualizing-nobel-prize-winners)
 
 Analyze Nobel Prize winner data to explore patterns in gender, birth country, decade trends, first female laureates, and repeat winners.  
