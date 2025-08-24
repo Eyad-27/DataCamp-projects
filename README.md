@@ -11,6 +11,16 @@ Below are the projects I’ve completed so far (most recent at the top, links in
 
 ---
 
+## 📊 [Customer Analytics: Preparing Data for Modeling](https://github.com/Eyad-27/customer-analytics-preparing-data)
+
+Optimized a large HR dataset to reduce memory usage and improve efficiency for modeling.  
+The project involved converting columns to appropriate data types, handling categorical/ordinal data, and filtering for senior professionals in enterprise companies.  
+
+- **Key Deliverables:** Performed data type optimization, converted categorical and ordinal variables, applied Boolean encoding, and filtered dataset for relevant candidates.  
+- **Skills Used:** Python (pandas, numpy), data preprocessing, efficient storage, categorical encoding, memory optimization.  
+
+---
+
 ## 🚨 [Analyzing Crime in Los Angeles](https://github.com/Eyad-27/analyzing-crime-in-los-angeles)
 
 Explore crime patterns in Los Angeles using historical crime data to identify peak crime hours, high-risk areas at night, and crime frequencies by victim age groups.  
