@@ -11,6 +11,16 @@ Below are the projects I’ve completed so far (most recent at the top, links in
 
 ---
 
+## 🏙️ [Exploring Airbnb Market Trends](https://github.com/Eyad-27/exploring-airbnb-market-trends)
+
+Analyzed Airbnb listings in New York City to provide insights into the short-term rental market.  
+Focused on merging multi-format datasets and extracting key trends about private rooms and pricing.  
+
+- **Key Deliverables:** Merged `.csv`, `.tsv`, `.xlsx` data; identified earliest & latest review dates; counted private rooms; calculated average prices; consolidated results into one summary DataFrame.  
+- **Skills Used:** Python (pandas), multi-format file handling, data cleaning, EDA, datetime processing, categorical handling.  
+
+---
+
 ## 📊 [Customer Analytics: Preparing Data for Modeling](https://github.com/Eyad-27/customer-analytics-preparing-data)
 
 Optimized a large HR dataset to reduce memory usage and improve efficiency for modeling.  
