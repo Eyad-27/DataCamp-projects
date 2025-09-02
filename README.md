@@ -11,6 +11,15 @@ Below are the projects I’ve completed so far (most recent at the top, links in
 
 ---
 
+## 🚗 [Modeling Car Insurance Claim Outcomes](https://github.com/Eyad-27/modeling-car-insurance-claims)
+
+Built models on customer insurance data to predict whether clients will make claims, focusing on identifying the single best feature for prediction.  
+
+- **Key Deliverables:** Cleaned insurance dataset, built single-feature models, evaluated accuracy, and identified the most predictive feature.  
+- **Skills Used:** Python (pandas, scikit-learn), data cleaning, handling missing values, model evaluation, accuracy metrics.  
+
+---
+
 ## 🏙️ [Exploring Airbnb Market Trends](https://github.com/Eyad-27/exploring-airbnb-market-trends)
 
 Analyzed Airbnb listings in New York City to provide insights into the short-term rental market.  
