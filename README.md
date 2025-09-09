@@ -11,6 +11,15 @@ Below are the projects I’ve completed so far (most recent at the top, links in
 
 ---
 
+## ⚽ [Hypothesis Testing with Men's and Women's Soccer Matches](https://github.com/Eyad-27/Hypothesis-Testing-Soccer)
+
+Investigated whether **women's international soccer matches** have more goals than men's by applying a statistical hypothesis test on FIFA World Cup data since 2002.  
+
+- **Key Deliverables:** Filtered FIFA datasets, performed statistical testing (t-test / non-parametric if needed), and interpreted results at a 10% significance level.  
+- **Skills Used:** Python (pandas, scipy, pingouin), hypothesis testing, statistical inference, EDA, result interpretation.  
+
+---
+
 ## 🚗 [Modeling Car Insurance Claim Outcomes](https://github.com/Eyad-27/modeling-car-insurance-claims)
 
 Built models on customer insurance data to predict whether clients will make claims, focusing on identifying the single best feature for prediction.  
