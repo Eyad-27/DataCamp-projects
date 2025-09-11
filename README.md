@@ -11,6 +11,16 @@ Below are the projects I’ve completed so far (most recent at the top, links in
 
 ---
 
+## 🌱 [Predictive Modeling for Agriculture](https://github.com/Eyad-27/predictive-agriculture-modeling)
+
+Which soil measure best predicts the type of crop to plant?  
+This project applied **multi-class classification** to agricultural soil data to determine which feature (Nitrogen, Phosphorous, Potassium, or pH) provides the highest predictive performance for crop type.  
+
+- **Key Deliverables:** Built classification models per soil feature, evaluated performance, and identified the strongest predictor stored in `best_predictive_feature`.  
+- **Skills Used:** Python (`pandas`, `scikit-learn`), data preprocessing, classification modeling, model evaluation, agricultural data analysis.
+
+---
+
 ## ⚽ [Hypothesis Testing with Men's and Women's Soccer Matches](https://github.com/Eyad-27/Hypothesis-Testing-Soccer)
 
 Investigated whether **women's international soccer matches** have more goals than men's by applying a statistical hypothesis test on FIFA World Cup data since 2002.  
