@@ -11,6 +11,16 @@ Below are the projects I’ve completed so far (most recent at the top, links in
 
 ---
 
+## 🐧 [Clustering Antarctic Penguin Species](https://github.com/Eyad-27/clustering-antarctic-penguins)
+
+Applied **unsupervised machine learning** to cluster Antarctic penguins into species-like groups (Adelie, Chinstrap, Gentoo) based on body measurements.  
+Performed preprocessing, determined optimal cluster count, and summarized each cluster’s characteristics.
+
+- **Key Deliverables:** Preprocessed categorical & numerical features, applied k-means clustering, and generated statistical cluster profiles.  
+- **Skills Used:** Python (`pandas`, `numpy`, `scikit-learn`), unsupervised learning, clustering analysis, data preprocessing, feature engineering.  
+
+---
+
 ## 🌱 [Predictive Modeling for Agriculture](https://github.com/Eyad-27/predictive-agriculture-modeling)
 
 Which soil measure best predicts the type of crop to plant?  
