@@ -11,6 +11,16 @@ Below are the projects I’ve completed so far (most recent at the top, links in
 
 ---
 
+## 🎬 [Predicting Movie Rental Durations](https://github.com/Eyad-27/predicting-movie-rental-durations)
+
+Helped a DVD rental company improve inventory planning by predicting how long customers rent DVDs.  
+Engineered features from rental data, created dummy variables, and applied regression models to achieve **MSE < 3** on the test set.  
+
+- **Key Deliverables:** Built regression models, feature engineered rental duration, performed feature selection, and tuned hyperparameters.  
+- **Skills Used:** Python (pandas, numpy, scikit-learn), regression modeling, feature engineering, train-test split, mean squared error (MSE).  
+
+---
+
 ## 🐧 [Clustering Antarctic Penguin Species](https://github.com/Eyad-27/clustering-antarctic-penguins)
 
 Applied **unsupervised machine learning** to cluster Antarctic penguins into species-like groups (Adelie, Chinstrap, Gentoo) based on body measurements.  
