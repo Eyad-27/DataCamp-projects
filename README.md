@@ -11,6 +11,15 @@ Below are the projects I’ve completed so far (most recent at the top, links in
 
 ---
 
+## 🧠 [Analyzing Students' Mental Health](https://github.com/Eyad-27/analyzing-students-mental-health)
+
+Explored how the length of stay for international students at a Japanese university impacts their mental health diagnostic scores. This project involved analyzing survey data to see if social connectedness and acculturative stress correlate with depression levels over time.
+
+- **Key Deliverables:** Generated a statistical summary table grouped by length of stay, including counts of international students and average scores for PHQ-9, SCS, and ASISS tests.
+- **Skills Used:** SQL (PostgreSQL), data aggregation, filtering, rounding, and data sorting.
+
+---
+
 ## 🎬 [Predicting Movie Rental Durations](https://github.com/Eyad-27/predicting-movie-rental-durations)
 
 Helped a DVD rental company improve inventory planning by predicting how long customers rent DVDs.  
