@@ -11,6 +11,15 @@ Below are the projects I’ve completed so far (most recent at the top, links in
 
 ---
 
+## 🎮 [The Golden Age of Video Games](https://github.com/Eyad-27/golden-age-of-video-games)
+
+Analyzed a dataset of the top 400 video games released since 1977 to determine if games are improving or if the "golden age" has passed. This project involved joining sales data with critic and user reviews to identify top-performing games and years.
+
+- **Key Deliverables:** Identified the top 10 best-selling games, the highest-rated years according to critics, and "Golden Years" where both users and critics gave exceptionally high scores.
+- **Skills Used:** SQL (PostgreSQL), joining multiple tables (INNER JOIN), data aggregation (AVG, COUNT), filtering (HAVING, WHERE), and set theory.
+
+---
+
 ## 🧠 [Analyzing Students' Mental Health](https://github.com/Eyad-27/analyzing-students-mental-health)
 
 Explored how the length of stay for international students at a Japanese university impacts their mental health diagnostic scores. This project involved analyzing survey data to see if social connectedness and acculturative stress correlate with depression levels over time.
