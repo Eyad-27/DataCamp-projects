@@ -11,6 +11,15 @@ Below are the projects I’ve completed so far (most recent at the top, links in
 
 ---
 
+## 🏍️ [Analyze Wholesale Data](https://github.com/Eyad-27/Analyze-Wholesale-Data)
+
+Analyzed sales data for a motorcycle parts company to understand wholesale revenue trends. This project involved calculating net revenue by subtracting payment fees from total sales and grouping the results by product line, warehouse, and month.
+
+- **Key Deliverables:** A comprehensive revenue report broken down by product category and location, identifying the most profitable wholesale segments for the summer period.
+- **Skills Used:** SQL (PostgreSQL), data aggregation (SUM), date manipulation (EXTRACT), conditional logic (CASE WHEN), and multi-level data sorting.
+
+---
+
 ## 🎮 [The Golden Age of Video Games](https://github.com/Eyad-27/golden-age-of-video-games)
 
 Analyzed a dataset of the top 400 video games released since 1977 to determine if games are improving or if the "golden age" has passed. This project involved joining sales data with critic and user reviews to identify top-performing games and years.
