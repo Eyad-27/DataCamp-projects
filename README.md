@@ -11,6 +11,15 @@ Below are the projects I’ve completed so far (most recent at the top, links in
 
 ---
 
+## 📝 [Multi-Modal OCR Insurance ID Classifier](https://github.com/Eyad-27/multimodal-ocr-insurance-sorting)
+
+Developed a multi-modal Optical Character Recognition (OCR) deep learning model in PyTorch for DigiNsure Inc. to automate the labeling of scanned historical insurance document IDs into primary or secondary categories. The model processes parallel inputs by combining visual document data with textual insurance type metadata to capture highly nuanced patterns.
+
+- **Key Deliverables:** Built a custom neural network (`OCRModel`) using functional layer concatenation, defined an optimization pipeline, and tracked cross-entropy loss convergence across 10 training epochs.
+- **Skills Used:** Python, PyTorch (`nn.Module`, `nn.Sequential`), Deep Learning, Convolutional Neural Networks (CNN), Multi-Modal Learning, Data Batching (`DataLoader`).
+
+---
+
 ## 🏍️ [Analyze Wholesale Data](https://github.com/Eyad-27/Analyze-Wholesale-Data)
 
 Analyzed sales data for a motorcycle parts company to understand wholesale revenue trends. This project involved calculating net revenue by subtracting payment fees from total sales and grouping the results by product line, warehouse, and month.
