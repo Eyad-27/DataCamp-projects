@@ -11,6 +11,15 @@ Below are the projects I’ve completed so far (most recent at the top, links in
 
 ---
 
+## 🚗 [Prototype Car Review LLM Chatbot](https://github.com/Eyad-27/car-sharing-llm-chatbot)
+
+Developed an multi-functional NLP prototype for the car sales and rental platform "Car-ing is sharing." Leveraged a variety of pre-trained Large Language Models (LLMs) via Hugging Face to automate critical customer service pipeline tasks including sentiment classification, text translation, extractive question answering, and text summarization.
+
+- **Key Deliverables:** Implemented automated review sentiment analysis evaluated via Accuracy/F1 metrics, built an English-to-Spanish review translator evaluated with BLEU scores, deployed an extractive QA engine for brand inquiries, and generated concise, token-bounded summaries of raw customer feedback.
+- **Skills Used:** Python, Hugging Face Transformers (`pipeline`), Pre-trained LLMs (`DistilBERT`, `MarianMT`, `MiniLM`, `BART`), Model Evaluation (`evaluate` library), Natural Language Processing (NLP).
+
+---
+
 ## 📝 [Multi-Modal OCR Insurance ID Classifier](https://github.com/Eyad-27/multimodal-ocr-insurance-sorting)
 
 Developed a multi-modal Optical Character Recognition (OCR) deep learning model in PyTorch for DigiNsure Inc. to automate the labeling of scanned historical insurance document IDs into primary or secondary categories. The model processes parallel inputs by combining visual document data with textual insurance type metadata to capture highly nuanced patterns.
